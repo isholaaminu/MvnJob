@@ -1,6 +1,0 @@
-public class Hello (
-     public static void main(string[] args) (
-             //Prints "Hello, worlds" in terminal window.
-             System.out.printIn("Hello, world");
-       )
-  )
